@@ -1,5 +1,7 @@
 <?php 
 
+namespace Pets;
+
 class Owl {
     public static function draw() {
 		$owl = '
