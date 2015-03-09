@@ -1,0 +1,19 @@
+{
+    "name": "alexvait/ascii-pets",
+    "description": "Simple pets",
+    "authors": [
+        {
+            "name": "Alex Vait",
+            "email": "vait@lieferando.de"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.2.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Pets": "src/"
+        }
+    }	
+}
